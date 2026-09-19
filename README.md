@@ -221,3 +221,4 @@ In addition to Razorpay checkout, customers can place direct inquiries or orders
 
 ## License & Store Rights
 Copyright © 2026 Sri Krishna Stationery and Gift, Coimbatore. All rights reserved.
+kruthivarma
